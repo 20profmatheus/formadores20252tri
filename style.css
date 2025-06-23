@@ -8,14 +8,14 @@ body {
 }
 
 header {
-    font-size: 35px;
+    font-size: 30px;
     border-bottom: double 5px darkblue;
     padding: 30px;
     text-align: center;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 p {
