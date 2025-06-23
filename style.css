@@ -2,10 +2,16 @@ body {
     background-color: lightblue;
     color:black;
     font-family: "Host Grotesk", sans-serif;
+
+
+    margin: 0px;
 }
 
 header {
     font-size: 20px;
+    border-bottom: double 5px darkblue;
+    margin: 30px;
+    text-align: center;
 }
 
 h1 {
